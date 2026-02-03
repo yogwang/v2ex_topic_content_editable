@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         V2EX 主题正文可编辑
+// @name         V2EX 主题正文 Contenteditable 脚本
 // @namespace    http://tampermonkey.net/
-// @version      1.0.0
-// @description  在 v2ex 主题正文悬停时显示编辑按钮，点击后启用 contenteditable 属性，方便调整文本排版
+// @version      1.0.1
+// @description  在 v2ex 主题正文悬停时显示编辑按钮，点击后启用 contenteditable 属性，以调整文本排版便于阅读。
 // @author       You
 // @match        https://www.v2ex.com/t/*
 // @match        https://v2ex.com/t/*
